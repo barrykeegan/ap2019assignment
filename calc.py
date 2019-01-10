@@ -4,8 +4,8 @@ def add(first, second):
 def subtract(first, second):
     return first - second
 
-print(add(2+2))
-print(add(2+3))
+def multiply(first, second):
+    return first * second
 
-print(subtract(2,2))
-print(subtract(3,2))
+def division(first, second):
+    return first/second
